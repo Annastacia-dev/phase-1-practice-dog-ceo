@@ -77,14 +77,6 @@ const container = document.querySelector('#dog-image-container')
              }
         }
 
-    //    if (breedName.style.color === "purple"){
-        
-    //       breedName.style.color = "black"
-    //    } else {
-          
-    //     breedName.style.color = "purple"
-
-    //    }
         
     }
 
